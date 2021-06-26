@@ -8,12 +8,20 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  text-align: center;
+  background-color: slategrey;
+  padding-top: 5rem;
+  min-height: 100vh;
+}
 h1 {
   text-align: center;
   font-size: 1.5rem;
   letter-spacing: 0.1rem;
-  background-color: slategrey;
   color: azure;
-  padding-top: 5rem;
-  min-height: 100vh;
+}
+button {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 1rem 2rem;
 }

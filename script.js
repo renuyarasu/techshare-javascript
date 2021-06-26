@@ -1,1 +1,5 @@
-// JavaScript/ES6
+// JavaScript Crash Course
+
+const heading = () => {
+    document.getElementById('head').innerHTML = 'VedaGna';
+}
