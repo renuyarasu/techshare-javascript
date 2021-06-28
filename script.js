@@ -1,5 +1,6 @@
 // JavaScript Crash Course
 
-const heading = () => {
-    document.getElementById('head').innerHTML = 'VedaGna';
+function check() {
+    let a = 10;
+    document.getElementById('result').innerHTML = (a > 100);
 }
